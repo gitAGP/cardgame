@@ -1,0 +1,45 @@
+For the basic layout information:
+Currently will have two human tribes/factions.
+
+Nomad: 
+	2/1: Costs 1 resource to play  
+	4/2: Costs 2 resources to play
+	6/3: Costs 3 resources to play
+
+	Special abilities related to 'raiding opponents' (dealing damage to an opponent grants some kind of effect)
+
+Imperial: 
+	1/2: Costs 1 resource to play
+	2/4: Costs 2 resources to play
+	3/6: Costs 3 resources to play
+
+	Special abilities related to 'growing resources' (growing number of humans, amount of resources grants some kind of effect)
+
+Zones of Play:
+	Hand
+	Board:
+		Player 1 zone
+		Player 2 zone
+		Battleground (probably a better name, the area where humans fight each other and can attack an opponent)
+	Discard
+
+
+Phases of the game:
+	Each player draws 6 cards
+	A player can place a card from hand onto the board face down on their player zone to create a resource that can be consumed once per round to play cards in hand
+	A human is played by paying its resource costs and enteres it's player zone.
+	Any number of humans can travel from one zone to another
+	Only humans in the battleground zone can attack an opponent directly if there are no enemy humans on the battleground
+
+Information Contained on a human:
+	Name
+	Image
+	Tribe/faction
+	Any special abilities
+	Flavor Text (descriptive text that describes the creature/it's relation to it's faction or some historical context)
+	Power
+	Health
+
+
+
+
