@@ -2,6 +2,7 @@
 	"Humans":{
 		"Light Calvary":{
 			"Stats":{
+				"Cost":1,
 				"Name":"Light Calvary",
 				"Image":"Location to Image in a folder",
 				"Tribe":"Nomad",
@@ -13,6 +14,7 @@
 		},
 		"Heavy Bowman":{
 			"Stats":{
+				"Cost":3,
 				"Name":"Heavy Bowman",
 				"Image":"Loc in Folder",
 				"Tribe":"Nomad",
@@ -24,6 +26,7 @@
 		},
 		"General":{
 			"Stats":{
+				"Cost":5,
 				"Name":"General",
 				"Image":"Loc in Folder",
 				"Tribe":"Nomad",
@@ -33,5 +36,31 @@
 				"Health":3,
 			}
 		}
+	},
+	"Action":{
+		"Volley":{
+			"Stats":{
+				"Cost":2,
+				"Name":"Volley",
+				"Image":"Loc in Folder",
+				"Tribe":"None",
+				"Ability":"~ deals 2 damage to any target",
+				"Flavor Text":"READY,AIM... FIRE!!!"
+			}
+		}
+	},
+	"Buff":{
+		"Supply the Troops":{
+			"Stats":{
+				"Cost":4,
+				"Name":"Supply the Troops",
+				"Image":"Loc in Folder",
+				"Tribe":"None",
+				"Ability":"Humans you control gaine +1 to their power and health",
+				"Flavor Text":"We have a new shipment of swords and shields, my soldiers should have the best.",
+
+			}
+		}
 	}
+
 }
