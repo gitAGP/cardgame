@@ -1,0 +1,37 @@
+{
+	"Humans":{
+		"Light Calvary":{
+			"Stats":{
+				"Name":"Light Calvary",
+				"Image":"Location to Image in a folder",
+				"Tribe":"Nomad",
+				"Special Ability":"None",
+				"Flavor Text":"The calvary was the first break the shields, in their wake the villages fell",
+				"Power":2,
+				"Health":1,		
+			}
+		},
+		"Heavy Bowman":{
+			"Stats":{
+				"Name":"Heavy Bowman",
+				"Image":"Loc in Folder",
+				"Tribe":"Nomad",
+				"Special Ability":"None",
+				"Flavor Text":"Even riding at full speed, his aim never seemed to fail",
+				"Power":4,
+				"Health":2,
+			}
+		},
+		"General":{
+			"Stats":{
+				"Name":"General",
+				"Image":"Loc in Folder",
+				"Tribe":"Nomad",
+				"Special Ability":"None",
+				"Flavor Text":"His presence on the field didn't just rally his men, it bit at the heart of ours",
+				"Power":6,
+				"Health":3,
+			}
+		}
+	}
+}
